@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sports Car
+* source:	https://sketchfab.com/3d-models/sports-car-6fb6beda7b594707867c924a0e46ad53
+* author:	samcurtiswright (https://sketchfab.com/samcurtiswright)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sports Car" (https://sketchfab.com/3d-models/sports-car-6fb6beda7b594707867c924a0e46ad53) by samcurtiswright (https://sketchfab.com/samcurtiswright) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
